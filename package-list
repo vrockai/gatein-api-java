@@ -1,0 +1,6 @@
+org.gatein.api
+org.gatein.api.portal
+org.gatein.api.portal.navigation
+org.gatein.api.portal.page
+org.gatein.api.portal.site
+org.gatein.api.util

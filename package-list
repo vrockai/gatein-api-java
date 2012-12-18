@@ -1,6 +1,7 @@
 org.gatein.api
-org.gatein.api.portal
-org.gatein.api.portal.navigation
-org.gatein.api.portal.page
-org.gatein.api.portal.site
-org.gatein.api.util
+org.gatein.api.common
+org.gatein.api.common.i18n
+org.gatein.api.navigation
+org.gatein.api.page
+org.gatein.api.security
+org.gatein.api.site
